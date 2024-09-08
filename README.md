@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Preston Lyons, I am interested in learning software development to a professional level but am also interested in learning programming for game design or something related. 
+I am currently not working on anything but plan to start slowly working through learning and practicing with other coding languages on my own time. My favorite hobby is generally video gaming or reading. 
+
 <!--
 **PrestonCLyons/PrestonCLyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
