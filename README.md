@@ -24,8 +24,10 @@ I am passionate about building tools that blend accessibility, efficiency, and i
 [Event page »](https://events.ycombinator.com/metorial-yc25)
 
 ### YC Agentic Payments Hackathon
+
 **Company Spending Manager**: An AI-assisted expense and payments system with a conversational interface. Invoices from PDFs or images are parsed into structured data, categorized, and stored in SQLite. A chat agent can list, create, update, and pay expenses, orchestrating multiple tools in parallel. The stack uses Next.js 16, React 19, TypeScript, Tailwind, shadcn/ui, and Framer Motion, with Claude handling extraction and multi-tool routing. Supports USDC payouts via tool integration.  
 [Event page »](https://events.ycombinator.com/agenticpaymentshackathon) · [GitHub repo »](https://github.com/josuediazflores/YC_AgenticHackathon)
+
 ---
 
 ## Technical Focus
