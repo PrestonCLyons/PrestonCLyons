@@ -8,21 +8,24 @@ I am passionate about building tools that blend accessibility, efficiency, and i
 ## Projects and Hackathons
 
 ### Roblox Game Jam
-**Void Escape** – A physics-based platformer using Lua and custom gameplay mechanics.  
+**Void Escape**: A physics-based platformer using Lua and custom gameplay mechanics.  
 [View project on Devpost »](https://devpost.com/software/void-escape)
 
 ### NVIDIA World’s Shortest Hackathon
-**Excused.ai** – A platform that converts videos and files into structured notes and interactive Q&A.  
-The full version integrates **Auth0**, **Stripe**, and **usage-based payment plans** for scalable SaaS deployment.  
+**Excused.ai**: A platform that converts videos and files into structured notes and interactive Q&A. The full version integrates Auth0, Stripe, and usage-based payment plans for scalable SaaS deployment.  
 [Visit Excused.ai »](https://excused.ai)
 
 ### AWS x INRIX 24-Hour Hackathon
-An enterprise-grade management site built with **AWS Lambda**, **DynamoDB**, and **Bedrock**, automating database access through natural language queries.  
+**Highview Student Management System**: A full-stack platform for tracking attendance and engagement with role-based access, session creation, a three-tier points system, task workflows, and automated outreach for at-risk students. Built with Next.js 16 (React 19, TypeScript), Tailwind CSS 4 and Radix UI, PostgreSQL on AWS RDS, secure cookie sessions with bcrypt, Recharts for analytics, and the Resend API for email.  
 [View project on Devpost »](https://devpost.com/software/database-llm-psuq15)
 
 ### YC Agent Jam
-Currently developing a web platform powered by intelligent file-processing agents that can parse and process any text-based file (PPTX, DOCX, PDF, and others), extract text from images, and allow users to download clean `.txt` data or generate summaries, answers, and student-style handwritten notes using a fine-tuned model.
+**Inkwell**: A study tool that turns long PDFs and docs into concise notes with an option for realistic handwritten rendering. Documents are uploaded through a Next.js frontend, parsed to clean markdown via OCR and layout analysis, then routed to a chat and notes workflow with full-document context. A Python FastAPI service can generate typed notes or a PNG of handwritten notes from a custom model.  
+[Event page »](https://events.ycombinator.com/metorial-yc25)
 
+### YC Agentic Payments Hackathon
+**Company Spending Manager**: An AI-assisted expense and payments system with a conversational interface. Invoices from PDFs or images are parsed into structured data, categorized, and stored in SQLite. A chat agent can list, create, update, and pay expenses, orchestrating multiple tools in parallel. The stack uses Next.js 16, React 19, TypeScript, Tailwind, shadcn/ui, and Framer Motion, with Claude handling extraction and multi-tool routing. Supports USDC payouts via tool integration.  
+[Event page »](https://events.ycombinator.com/agenticpaymentshackathon) · [GitHub repo »](https://github.com/josuediazflores/YC_AgenticHackathon)
 ---
 
 ## Technical Focus
